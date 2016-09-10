@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "地圖2",
+    "texture": "8af94d15-e25c-4255-9283-054338859a2c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      122
+    ],
+    "offset": [
+      -103,
+      144
+    ],
+    "originalSize": [
+      410,
+      410
+    ]
+  }
+}

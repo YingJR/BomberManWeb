@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8af94d15-e25c-4255-9283-054338859a2c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "地圖2": {
+      "ver": "1.0.3",
+      "uuid": "ed0ef7ce-1226-495e-ade6-3f0651263868",
+      "rawTextureUuid": "8af94d15-e25c-4255-9283-054338859a2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -103,
+      "offsetY": 144,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 122,
+      "rawWidth": 410,
+      "rawHeight": 410,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

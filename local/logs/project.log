@@ -1,0 +1,414 @@
+2016-09-10T01:38:44.280Z - normal: Load ~/.CocosCreator/settings.json
+2016-09-10T01:38:44.280Z - normal: checking language setting...
+2016-09-10T01:38:44.280Z - normal: Language: zh
+2016-09-10T01:38:45.344Z - success: protocol editor-framework registered
+2016-09-10T01:38:45.344Z - success: protocol app registered
+2016-09-10T01:38:45.344Z - success: protocol packages registered
+2016-09-10T01:38:45.344Z - success: protocol theme registered
+2016-09-10T01:38:45.344Z - success: protocol unpack registerred
+2016-09-10T01:38:45.817Z - normal: connected!
+2016-09-10T01:38:45.817Z - normal: Check project C:\JavaFramework\Cocos_workspace\BomberManWeb
+2016-09-10T01:38:45.817Z - normal: Initializing Cocos Creator Editor
+2016-09-10T01:38:46.067Z - normal: Initializing Cocos2d
+2016-09-10T01:38:46.583Z - normal: Initializing Asset Database
+2016-09-10T01:38:46.598Z - success: protocol uuid registerred
+2016-09-10T01:38:46.598Z - success: protocol db registerred
+2016-09-10T01:38:46.598Z - success: protocol thumbnail registerred
+2016-09-10T01:38:46.598Z - normal: Loading editor/builtin packages
+2016-09-10T01:38:46.661Z - success: assets loaded
+2016-09-10T01:38:46.676Z - success: builder loaded
+2016-09-10T01:38:46.676Z - success: hierarchy loaded
+2016-09-10T01:38:46.676Z - success: inspector loaded
+2016-09-10T01:38:46.676Z - success: keystore loaded
+2016-09-10T01:38:46.676Z - success: node-library loaded
+2016-09-10T01:38:46.676Z - success: preferences loaded
+2016-09-10T01:38:46.676Z - success: project-importer loaded
+2016-09-10T01:38:46.692Z - success: project-settings loaded
+2016-09-10T01:38:46.692Z - success: ui-kit loaded
+2016-09-10T01:38:46.692Z - success: ui-grid loaded
+2016-09-10T01:38:46.692Z - success: scene loaded
+2016-09-10T01:38:46.692Z - success: sprite-editor loaded
+2016-09-10T01:38:46.692Z - success: timeline loaded
+2016-09-10T01:38:46.692Z - normal: Loading builtin packages
+2016-09-10T01:38:46.692Z - success: asset-db-debugger loaded
+2016-09-10T01:38:46.692Z - success: cocos-package loaded
+2016-09-10T01:38:46.692Z - success: code-editor loaded
+2016-09-10T01:38:46.692Z - success: color-picker loaded
+2016-09-10T01:38:46.692Z - success: console loaded
+2016-09-10T01:38:46.692Z - success: package-manager loaded
+2016-09-10T01:38:46.708Z - success: tester loaded
+2016-09-10T01:38:46.708Z - success: ui-kit-preview-extra loaded
+2016-09-10T01:38:46.708Z - success: ui-kit-preview loaded
+2016-09-10T01:38:46.708Z - success: ui-tree loaded
+2016-09-10T01:38:46.739Z - normal: Initializing project C:\JavaFramework\Cocos_workspace\BomberManWeb
+2016-09-10T01:38:46.754Z - normal: Loading packages
+2016-09-10T01:38:46.754Z - normal: Run Application
+2016-09-10T01:38:47.399Z - success: preview server running at http://localhost:7456
+2016-09-10T01:38:55.395Z - normal: 1.2.1-rc.1
+2016-09-10T01:38:56.948Z - error: Property "ccPlayer.position" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?001:1:451
+2016-09-10T01:38:56.948Z - error: Property "ccPlayer.size" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?001:1:451
+2016-09-10T01:38:56.948Z - error: Property "ccPlayer.controls" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?001:1:451
+2016-09-10T01:40:37.982Z - normal: Compiled successfully
+2016-09-10T01:40:38.040Z - error: Property "ccPlayer.size" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?002:1:451
+2016-09-10T01:40:38.040Z - error: Property "ccPlayer.controls" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?002:1:451
+2016-09-10T01:55:46.965Z - normal: Compiled successfully
+2016-09-10T01:55:47.039Z - error: ReferenceError: x is not defined
+    at Object.require.ccPlayer: "default: new cc.p(x, y)," (assets/Script/ccPlayer.js:20:9)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?003:1:451
+2016-09-10T01:55:47.048Z - warn: Can not find script "641782c9-9295-43a9-805d-66e8d1ba81b3"
+2016-09-10T01:56:39.324Z - normal: Compiled successfully
+2016-09-10T01:56:39.367Z - error: ReferenceError: x is not defined
+    at Object.require.ccPlayer: "default: new cc.p(x, y)," (assets/Script/ccPlayer.js:20:9)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?004:1:451
+2016-09-10T01:56:39.372Z - warn: Can not find script "641782c9-9295-43a9-805d-66e8d1ba81b3"
+2016-09-10T02:02:28.961Z - normal: Compiled successfully
+2016-09-10T02:02:28.995Z - error: Property "ccPlayer.controls" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?005:1:451
+2016-09-10T02:04:54.054Z - normal: Compiled successfully
+2016-09-10T02:04:54.094Z - error: Property "ccPlayer.controls" must define at least one of "default", "get" or "set".
+    at module.exports (C:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-attrs.js:207:24)
+    at declareProperties (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:677:9)
+    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:811:9)
+    at Object.require.ccPlayer (assets/Script/ccPlayer.js:1)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?006:1:451
+2016-09-10T02:05:16.309Z - normal: Compiled successfully
+2016-09-10T02:05:25.771Z - normal: Compiled successfully
+2016-09-10T02:23:59.684Z - normal: Compiled successfully
+2016-09-10T02:24:07.995Z - normal: Compiled successfully
+2016-09-10T02:26:54.656Z - normal: Compiled successfully
+2016-09-10T02:27:39.043Z - normal: Compiled successfully
+2016-09-10T02:28:14.652Z - normal: Compiled successfully
+2016-09-10T02:59:09.697Z - normal: Compiled successfully
+2016-09-10T03:31:30.372Z - normal: Compiled successfully
+2016-09-10T03:34:47.609Z - normal: Compiled successfully
+2016-09-10T03:38:47.438Z - normal: Compiled successfully
+2016-09-10T03:45:14.806Z - normal: Compiled successfully
+2016-09-10T03:49:15.302Z - normal: Compiled successfully
+2016-09-10T03:50:33.736Z - normal: Compiled successfully
+2016-09-10T03:51:15.245Z - normal: Compiled successfully
+2016-09-10T03:51:47.332Z - normal: Compiled successfully
+2016-09-10T03:52:25.364Z - warn: Failed to set property ccPlayer<ccPlayer> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:772)
+    at setByUuid (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:921)
+    at _setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1645)
+    at setDeepPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:3688)
+    at Object.Editor.setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5185)
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13164
+    at Object.Scene.setProperty (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13399)
+    at editor-scene.Editor.polymerPanel.messages.scene:set-property (file:///C:/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:7460)
+    at Object.Panel._dispatch (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:4765)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-09-10T03:52:26.375Z - warn: Failed to set property ccPlayer<ccPlayer> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:772)
+    at setByUuid (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:921)
+    at _setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1645)
+    at setDeepPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:3688)
+    at Object.Editor.setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5185)
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13164
+    at Object.Scene.setProperty (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13399)
+    at editor-scene.Editor.polymerPanel.messages.scene:set-property (file:///C:/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:7460)
+    at Object.Panel._dispatch (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:4765)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-09-10T03:52:26.916Z - warn: Failed to set property ccPlayer<ccPlayer> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:772)
+    at setByUuid (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:921)
+    at _setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1645)
+    at setDeepPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:3688)
+    at Object.Editor.setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5185)
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13164
+    at Object.Scene.setProperty (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13399)
+    at editor-scene.Editor.polymerPanel.messages.scene:set-property (file:///C:/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:7460)
+    at Object.Panel._dispatch (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:4765)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-09-10T03:52:27.451Z - warn: Failed to set property ccPlayer<ccPlayer> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:772)
+    at setByUuid (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:921)
+    at _setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1645)
+    at setDeepPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:3688)
+    at Object.Editor.setPropertyByPath (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5185)
+    at C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13164
+    at Object.Scene.setProperty (C:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:13399)
+    at editor-scene.Editor.polymerPanel.messages.scene:set-property (file:///C:/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:7460)
+    at Object.Panel._dispatch (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:4765)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4943)
+2016-09-10T03:54:23.994Z - normal: Compiled successfully
+2016-09-10T04:05:43.279Z - normal: Compiled successfully
+2016-09-10T04:05:45.002Z - normal: Compiled successfully
+2016-09-10T04:06:25.786Z - normal: Compiled successfully
+2016-09-10T04:06:48.552Z - normal: Compiled successfully
+2016-09-10T04:07:09.193Z - normal: Compiled successfully
+2016-09-10T04:07:17.627Z - normal: Compiled successfully
+2016-09-10T04:09:07.826Z - normal: Compiled successfully
+2016-09-10T04:09:25.825Z - normal: Compiled successfully
+2016-09-10T04:13:13.561Z - normal: Compiled successfully
+2016-09-10T04:13:36.033Z - normal: Compiled successfully
+2016-09-10T05:10:10.022Z - normal: Compiled successfully
+2016-09-10T05:10:19.943Z - normal: Compiled successfully
+2016-09-10T05:11:37.302Z - normal: Compiled successfully
+2016-09-10T05:11:47.741Z - normal: Compiled successfully
+2016-09-10T05:12:14.897Z - normal: Compiled successfully
+2016-09-10T05:21:39.647Z - normal: Compiled successfully
+2016-09-10T05:26:42.354Z - normal: Compiled successfully
+2016-09-10T05:28:49.909Z - normal: Compiled successfully
+2016-09-10T05:29:54.326Z - normal: Compiled successfully
+2016-09-10T05:30:38.124Z - normal: Compiled successfully
+2016-09-10T05:31:21.457Z - normal: Compiled successfully
+2016-09-10T05:33:53.353Z - normal: Compiled successfully
+2016-09-10T05:58:12.937Z - error: Failed to update asset db://assets/Script/Map.js, messages: SyntaxError: unknown: Unexpected token (12:66)
+        console.log(this.player);
+        this.tiledMap = this.node.getComponent(cc.TiledMap);
+        console.log(this.player.convertToWorldSpace(this.tiledMap);
+
+        // this.player.x=player1Point.x;
+        // this.player.y=player1Point.y;
+    at Parser.pp.raise (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseExprList (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:785:12)
+    at Parser.pp.parseSubscripts (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at Parser.pp.parseMaybeUnary (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at e.AssetDB.error (C:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (C:\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4377)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (C:\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at C:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:19127
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-09-10T05:58:48.114Z - normal: Compiled successfully
+2016-09-10T05:59:08.276Z - normal: Compiled successfully
+2016-09-10T06:00:55.003Z - normal: Compiled successfully
+2016-09-10T06:02:09.773Z - normal: Compiled successfully
+2016-09-10T06:06:52.565Z - normal: Compiled successfully
+2016-09-10T06:08:50.937Z - normal: Compiled successfully
+2016-09-10T06:09:00.117Z - normal: Compiled successfully
+2016-09-10T06:09:16.058Z - normal: Compiled successfully
+2016-09-10T06:15:24.037Z - normal: Compiled successfully
+2016-09-10T06:15:24.092Z - error: ReferenceError: player is not defined
+    at Object.require.Map: "type: player" (assets/Script/Map.js:7:12)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?054:1:451
+2016-09-10T06:15:24.121Z - warn: Can not find script "f4c1a93b-d004-44fb-a578-c85faa6507be"
+2016-09-10T06:17:12.489Z - normal: Compiled successfully
+2016-09-10T06:17:12.547Z - error: ReferenceError: player is not defined
+    at Object.require.Map: "type: player" (assets/Script/Map.js:7:12)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?055:1:451
+2016-09-10T06:17:12.577Z - warn: Can not find script "f4c1a93b-d004-44fb-a578-c85faa6507be"
+2016-09-10T06:17:18.286Z - normal: Compiled successfully
+2016-09-10T06:17:18.357Z - error: ReferenceError: player is not defined
+    at Object.require.Map: "type: player" (assets/Script/Map.js:7:12)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?056:1:451
+2016-09-10T06:17:18.420Z - warn: Can not find script "f4c1a93b-d004-44fb-a578-c85faa6507be"
+2016-09-10T06:18:00.869Z - normal: Compiled successfully
+2016-09-10T06:18:00.932Z - error: ReferenceError: player is not defined
+    at Object.require.Map: "type: player" (assets/Script/Map.js:7:12)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?057:1:451
+2016-09-10T06:18:01.011Z - warn: Can not find script "f4c1a93b-d004-44fb-a578-c85faa6507be"
+2016-09-10T06:18:38.003Z - normal: Compiled successfully
+2016-09-10T06:19:04.305Z - normal: Compiled successfully
+2016-09-10T06:19:16.508Z - normal: Compiled successfully
+2016-09-10T06:20:01.086Z - normal: Compiled successfully
+2016-09-10T06:20:01.140Z - error: ReferenceError: player is not defined
+    at Object.require.Map: "type: player" (assets/Script/Map.js:11:12)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?061:1:451
+2016-09-10T06:20:01.170Z - warn: Can not find script "f4c1a93b-d004-44fb-a578-c85faa6507be"
+2016-09-10T06:20:03.953Z - normal: Compiled successfully
+2016-09-10T06:20:27.780Z - normal: Compiled successfully
+2016-09-10T06:20:58.184Z - normal: Compiled successfully
+2016-09-10T06:24:53.774Z - normal: Compiled successfully
+2016-09-10T06:38:43.721Z - normal: Compiled successfully
+2016-09-10T06:39:19.756Z - normal: Compiled successfully
+2016-09-10T06:39:39.714Z - normal: Compiled successfully
+2016-09-10T06:41:37.718Z - normal: Compiled successfully
+2016-09-10T06:41:48.101Z - normal: Compiled successfully
+2016-09-10T06:43:29.017Z - normal: Compiled successfully
+2016-09-10T06:44:35.998Z - normal: Compiled successfully
+2016-09-10T06:45:03.097Z - normal: Compiled successfully
+2016-09-10T06:47:55.102Z - normal: Compiled successfully
+2016-09-10T06:47:57.570Z - normal: Compiled successfully
+2016-09-10T06:48:10.300Z - normal: Compiled successfully
+2016-09-10T06:49:23.009Z - normal: Compiled successfully
+2016-09-10T06:49:29.881Z - normal: Compiled successfully
+2016-09-10T06:51:43.676Z - normal: Compiled successfully
+2016-09-10T06:52:58.540Z - normal: Compiled successfully
+2016-09-10T06:53:27.824Z - normal: Compiled successfully
+2016-09-10T06:54:36.769Z - normal: Compiled successfully
+2016-09-10T06:55:54.339Z - normal: Compiled successfully
+2016-09-10T06:57:37.598Z - normal: Compiled successfully
+2016-09-10T06:58:09.378Z - normal: Compiled successfully
+2016-09-10T06:59:08.907Z - normal: Compiled successfully
+2016-09-10T07:00:16.621Z - normal: Compiled successfully
+2016-09-10T07:01:03.672Z - normal: Compiled successfully
+2016-09-10T07:01:19.172Z - normal: Compiled successfully
+2016-09-10T07:02:01.498Z - normal: Compiled successfully
+2016-09-10T07:02:10.711Z - normal: Compiled successfully
+2016-09-10T07:03:11.043Z - normal: Compiled successfully
+2016-09-10T07:03:23.993Z - normal: Compiled successfully
+2016-09-10T07:03:31.929Z - normal: Compiled successfully
+2016-09-10T07:04:28.297Z - normal: Compiled successfully
+2016-09-10T07:05:14.804Z - normal: Compiled successfully
+2016-09-10T07:05:24.225Z - normal: Compiled successfully
+2016-09-10T07:05:53.469Z - normal: Compiled successfully
+2016-09-10T07:06:15.598Z - normal: Compiled successfully
+2016-09-10T07:06:39.811Z - normal: Compiled successfully
+2016-09-10T07:09:15.934Z - normal: Compiled successfully
+2016-09-10T07:09:21.111Z - normal: Compiled successfully
+2016-09-10T07:10:52.828Z - normal: Compiled successfully
+2016-09-10T07:11:08.690Z - normal: Compiled successfully
+2016-09-10T07:11:11.918Z - normal: Compiled successfully
+2016-09-10T07:11:26.785Z - normal: Compiled successfully
+2016-09-10T07:12:39.738Z - normal: Compiled successfully
+2016-09-10T07:13:07.277Z - normal: Compiled successfully
+2016-09-10T07:17:12.538Z - normal: Compiled successfully
+2016-09-10T07:18:26.541Z - error: Failed to update asset db://assets/Script/Map.js, messages: SyntaxError: unknown: Unexpected token (122:17)
+        if (newTile.y < 0 || newTile.y >= mapSize.height) return;
+        
+        if (this.||this.barriers1.getTileGIDAt(newTile)) {//GID=0,则该Tile为空
+            cc.log('This way is blocked!');
+            return false;
+        }
+    at Parser.pp.raise (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.parseIdent (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:818:10)
+    at Parser.pp.parseSubscripts (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:254:28)
+    at Parser.pp.parseExprSubscripts (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at Parser.pp.parseMaybeUnary (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExpression (C:\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:79:19)
+    at e.AssetDB.error (C:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (C:\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4377)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (C:\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at C:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:19127
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-09-10T07:19:11.821Z - normal: Compiled successfully
+2016-09-10T07:19:58.177Z - normal: Compiled successfully
+2016-09-10T07:24:20.345Z - normal: Compiled successfully
+2016-09-10T07:24:39.563Z - normal: Compiled successfully
+2016-09-10T07:25:24.174Z - normal: Compiled successfully
+2016-09-10T07:27:13.452Z - normal: Compiled successfully
+2016-09-10T07:27:38.372Z - normal: Compiled successfully
+2016-09-10T07:27:48.445Z - normal: Compiled successfully
+2016-09-10T07:27:53.655Z - normal: Compiled successfully
+2016-09-10T07:31:03.492Z - normal: Compiled successfully
+2016-09-10T07:34:24.429Z - normal: Compiled successfully
+2016-09-10T07:35:03.682Z - normal: Compiled successfully
+2016-09-10T07:37:54.639Z - normal: Compiled successfully
+2016-09-10T07:39:47.638Z - normal: Compiled successfully
+2016-09-10T07:40:48.967Z - normal: Compiled successfully
+2016-09-10T07:41:31.981Z - normal: Compiled successfully
+2016-09-10T07:41:54.492Z - normal: Compiled successfully
+2016-09-10T07:44:32.078Z - normal: Compiled successfully
+2016-09-10T07:45:38.971Z - normal: Compiled successfully
+2016-09-10T07:46:01.536Z - normal: Compiled successfully
+2016-09-10T07:48:42.935Z - normal: Compiled successfully
+2016-09-10T07:48:42.992Z - error: 0 already defined in Enum.
+    at Object.cc.Enum (C:\CocosCreator\resources\engine\cocos2d\core\value-types\CCEnum.js:65:20)
+    at Object.require.Map (assets/Script/Map.js:3)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?130:1:451
+2016-09-10T07:48:42.993Z - error: 0 already defined in Enum.
+    at Object.cc.Enum (C:\CocosCreator\resources\engine\cocos2d\core\value-types\CCEnum.js:65:20)
+    at Object.require.Map (assets/Script/Map.js:3)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?130:1:451
+2016-09-10T07:48:42.993Z - error: 0 already defined in Enum.
+    at Object.cc.Enum (C:\CocosCreator\resources\engine\cocos2d\core\value-types\CCEnum.js:65:20)
+    at Object.require.Map (assets/Script/Map.js:3)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?130:1:451
+2016-09-10T07:48:42.993Z - error: 0 already defined in Enum.
+    at Object.cc.Enum (C:\CocosCreator\resources\engine\cocos2d\core\value-types\CCEnum.js:65:20)
+    at Object.require.Map (assets/Script/Map.js:3)
+    at s (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///C:/JavaFramework/Cocos_workspace/BomberManWeb/library/bundle.project.js?130:1:451
+2016-09-10T07:48:52.851Z - normal: Compiled successfully
+2016-09-10T07:52:28.675Z - normal: Compiled successfully
+2016-09-10T07:53:44.536Z - normal: Compiled successfully
+2016-09-10T07:54:26.252Z - normal: Compiled successfully
+2016-09-10T07:55:02.325Z - normal: Compiled successfully
+2016-09-10T07:55:25.169Z - normal: Compiled successfully
+2016-09-10T07:55:50.965Z - normal: Compiled successfully
+2016-09-10T07:56:17.151Z - normal: Compiled successfully
+2016-09-10T07:57:09.584Z - normal: Compiled successfully
+2016-09-10T08:01:10.204Z - normal: Compiled successfully
+2016-09-10T08:01:32.329Z - normal: Compiled successfully
+2016-09-10T08:02:21.241Z - normal: Compiled successfully
+2016-09-10T08:02:36.355Z - normal: Compiled successfully
+2016-09-10T08:02:47.689Z - normal: Compiled successfully
+2016-09-10T08:04:04.056Z - normal: Compiled successfully
+2016-09-10T08:04:38.647Z - normal: Compiled successfully
+2016-09-10T08:04:58.958Z - normal: Compiled successfully
+2016-09-10T08:28:02.810Z - normal: Compiled successfully
+2016-09-10T08:29:10.376Z - normal: Compiled successfully
+2016-09-10T08:29:49.094Z - normal: Compiled successfully
